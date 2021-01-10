@@ -8,12 +8,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDokyeongyun&count_bg=%233AA8D3&title_bg=%23000000&icon=fossa.svg&icon_color=%23FFFFFF&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-
-![Dokyeongyun's github stat](https://github-readme-stats.vercel.app/api?username=Dokyeongyun&show_icons=true)
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokyeongyun)](https://github.com/Dokyeongyun/github-readme-stats)  
 
 ***
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aservmz)](https://solved.ac/aservmz)
+
+![Dokyeongyun's github stat](https://github-readme-stats.vercel.app/api?username=Dokyeongyun&show_icons=true&theme=radical)   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aservmz)](https://solved.ac/aservmz)
 
 
 <!--
