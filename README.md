@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDokyeongyun&count_bg=%233AA8D3&title_bg=%23000000&icon=fossa.svg&icon_color=%23FFFFFF&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aservmz)](https://solved.ac/aservmz)
 
 
