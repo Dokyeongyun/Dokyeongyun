@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aservmz)](https://solved.ac/aservmz)
+
+
 <!--
 **Dokyeongyun/Dokyeongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
