@@ -1,7 +1,7 @@
 
 ### :bulb:'Continuous Improvement':bulb:
 ##### It's my favorite words. :star2:
-##### This is Toyota's corporate policy is aimed at achieving modest growth every day and finally achieving a lot of growth.
+##### This is Toyota's corporate policy that is aimed at achieving modest growth every day and finally achieving a lot of growth.
 ##### I am a young man who lives with this ideology as a pillar. :punch: :running:
 
 
