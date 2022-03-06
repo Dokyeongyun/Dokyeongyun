@@ -15,6 +15,7 @@
 
 ![Dokyeongyun's github stat](https://github-readme-stats.vercel.app/api?username=Dokyeongyun&show_icons=true&theme=radical)   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aservmz)](https://solved.ac/aservmz)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dokyeongyun&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Dokyeongyun/Dokyeongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
